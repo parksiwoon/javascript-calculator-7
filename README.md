@@ -1,6 +1,4 @@
-# javascript-calculator-precourse
-
-# 문자열 덧셈 계산기
+# 📍 javascript-calculator-precourse (문자열 덧셈 계산기)
 
 ## 구현할 기능 목록
 
